@@ -3,4 +3,4 @@
   
   |Название проекта   | Описание          |Стек технологий       |
   |:------------------|:------------------|:---------------------|
-  |1.	[HR Data cleaning](#title1)| Очистка и обработка данных.  Необходимо очистить dataset и выбрать вакансии, которые подходят для начинающих аналитиков данных.|Python, Pandas, Numpy, Datetime|
+  |1.	[HR Data cleaning](https://github.com/Moltotatto/Portfolio/edit/main/README.md "HR Data cleaning")| Очистка и обработка данных.  Необходимо очистить dataset и выбрать вакансии, которые подходят для начинающих аналитиков данных.|Python, Pandas, Numpy, Datetime|
